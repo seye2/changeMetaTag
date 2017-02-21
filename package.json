@@ -1,0 +1,21 @@
+{
+  "name": "init",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "deploy": "./build.sh",
+    "dev": "node dev.js"
+  },
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {},
+  "description": "",
+  "dependencies": {
+    "axios": "^0.15.3",
+    "cheerio": "^0.22.0",
+    "curlrequest": "^1.0.1",
+    "fs": "^0.0.1-security",
+    "iconv-lite": "^0.4.15"
+  }
+}

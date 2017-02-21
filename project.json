@@ -1,0 +1,10 @@
+{
+  "name": "danji",
+  "description": "",
+  "memory": 128,
+  "timeout": 5,
+  "role": "",
+  "handler":"index.handle",
+  "environment": {},
+  "profile" : "view"
+}
